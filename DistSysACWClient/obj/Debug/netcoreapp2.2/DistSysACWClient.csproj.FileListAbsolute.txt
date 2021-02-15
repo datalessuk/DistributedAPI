@@ -1,0 +1,48 @@
+C:\Users\Mark\Documents\Uni Work\Distrubuted Systems\New folder\DistSysACWClient\bin\Debug\netcoreapp2.2\DistSysACWClient.deps.json
+C:\Users\Mark\Documents\Uni Work\Distrubuted Systems\New folder\DistSysACWClient\bin\Debug\netcoreapp2.2\DistSysACWClient.runtimeconfig.json
+C:\Users\Mark\Documents\Uni Work\Distrubuted Systems\New folder\DistSysACWClient\bin\Debug\netcoreapp2.2\DistSysACWClient.runtimeconfig.dev.json
+C:\Users\Mark\Documents\Uni Work\Distrubuted Systems\New folder\DistSysACWClient\bin\Debug\netcoreapp2.2\DistSysACWClient.dll
+C:\Users\Mark\Documents\Uni Work\Distrubuted Systems\New folder\DistSysACWClient\obj\Debug\netcoreapp2.2\DistSysACWClient.csprojAssemblyReference.cache
+C:\Users\Mark\Documents\Uni Work\Distrubuted Systems\New folder\DistSysACWClient\obj\Debug\netcoreapp2.2\DistSysACWClient.AssemblyInfoInputs.cache
+C:\Users\Mark\Documents\Uni Work\Distrubuted Systems\New folder\DistSysACWClient\obj\Debug\netcoreapp2.2\DistSysACWClient.AssemblyInfo.cs
+C:\Users\Mark\Documents\Uni Work\Distrubuted Systems\New folder\DistSysACWClient\obj\Debug\netcoreapp2.2\DistSysACWClient.genruntimeconfig.cache
+C:\Users\Mark\Documents\Uni Work\Distrubuted Systems\New folder\DistSysACWClient\bin\Debug\netcoreapp2.2\DistSysACWClient.pdb
+C:\Users\Mark\Documents\Uni Work\Distrubuted Systems\New folder\DistSysACWClient\obj\Debug\netcoreapp2.2\DistSysACWClient.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Documents\Uni Work\Distrubuted Systems\New folder\DistSysACWClient\obj\Debug\netcoreapp2.2\DistSysACWClient.dll
+C:\Users\Mark\Documents\Uni Work\Distrubuted Systems\New folder\DistSysACWClient\obj\Debug\netcoreapp2.2\DistSysACWClient.pdb
+C:\DistSysACW\DistSysACWClient\bin\Debug\netcoreapp2.2\DistSysACWClient.deps.json
+C:\DistSysACW\DistSysACWClient\bin\Debug\netcoreapp2.2\DistSysACWClient.runtimeconfig.json
+C:\DistSysACW\DistSysACWClient\bin\Debug\netcoreapp2.2\DistSysACWClient.runtimeconfig.dev.json
+C:\DistSysACW\DistSysACWClient\bin\Debug\netcoreapp2.2\DistSysACWClient.dll
+C:\DistSysACW\DistSysACWClient\bin\Debug\netcoreapp2.2\DistSysACWClient.pdb
+C:\DistSysACW\DistSysACWClient\obj\Debug\netcoreapp2.2\DistSysACWClient.csprojAssemblyReference.cache
+C:\DistSysACW\DistSysACWClient\obj\Debug\netcoreapp2.2\DistSysACWClient.csproj.CoreCompileInputs.cache
+C:\DistSysACW\DistSysACWClient\obj\Debug\netcoreapp2.2\DistSysACWClient.AssemblyInfoInputs.cache
+C:\DistSysACW\DistSysACWClient\obj\Debug\netcoreapp2.2\DistSysACWClient.AssemblyInfo.cs
+C:\DistSysACW\DistSysACWClient\obj\Debug\netcoreapp2.2\DistSysACWClient.dll
+C:\DistSysACW\DistSysACWClient\obj\Debug\netcoreapp2.2\DistSysACWClient.pdb
+C:\DistSysACW\DistSysACWClient\obj\Debug\netcoreapp2.2\DistSysACWClient.genruntimeconfig.cache
+C:\Users\Mark\Documents\DistSysACW\DistSysACWClient\bin\Debug\netcoreapp2.2\DistSysACWClient.deps.json
+C:\Users\Mark\Documents\DistSysACW\DistSysACWClient\bin\Debug\netcoreapp2.2\DistSysACWClient.runtimeconfig.json
+C:\Users\Mark\Documents\DistSysACW\DistSysACWClient\bin\Debug\netcoreapp2.2\DistSysACWClient.runtimeconfig.dev.json
+C:\Users\Mark\Documents\DistSysACW\DistSysACWClient\bin\Debug\netcoreapp2.2\DistSysACWClient.dll
+C:\Users\Mark\Documents\DistSysACW\DistSysACWClient\bin\Debug\netcoreapp2.2\DistSysACWClient.pdb
+C:\Users\Mark\Documents\DistSysACW\DistSysACWClient\obj\Debug\netcoreapp2.2\DistSysACWClient.csprojAssemblyReference.cache
+C:\Users\Mark\Documents\DistSysACW\DistSysACWClient\obj\Debug\netcoreapp2.2\DistSysACWClient.AssemblyInfoInputs.cache
+C:\Users\Mark\Documents\DistSysACW\DistSysACWClient\obj\Debug\netcoreapp2.2\DistSysACWClient.AssemblyInfo.cs
+C:\Users\Mark\Documents\DistSysACW\DistSysACWClient\obj\Debug\netcoreapp2.2\DistSysACWClient.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Documents\DistSysACW\DistSysACWClient\obj\Debug\netcoreapp2.2\DistSysACWClient.dll
+C:\Users\Mark\Documents\DistSysACW\DistSysACWClient\obj\Debug\netcoreapp2.2\DistSysACWClient.pdb
+C:\Users\Mark\Documents\DistSysACW\DistSysACWClient\obj\Debug\netcoreapp2.2\DistSysACWClient.genruntimeconfig.cache
+C:\Users\Mark\Desktop\New folder (2)\mySubmission\mySolution\DistSysACW\DistSysACWClient\bin\Debug\netcoreapp2.2\DistSysACWClient.deps.json
+C:\Users\Mark\Desktop\New folder (2)\mySubmission\mySolution\DistSysACW\DistSysACWClient\bin\Debug\netcoreapp2.2\DistSysACWClient.runtimeconfig.json
+C:\Users\Mark\Desktop\New folder (2)\mySubmission\mySolution\DistSysACW\DistSysACWClient\bin\Debug\netcoreapp2.2\DistSysACWClient.runtimeconfig.dev.json
+C:\Users\Mark\Desktop\New folder (2)\mySubmission\mySolution\DistSysACW\DistSysACWClient\bin\Debug\netcoreapp2.2\DistSysACWClient.dll
+C:\Users\Mark\Desktop\New folder (2)\mySubmission\mySolution\DistSysACW\DistSysACWClient\bin\Debug\netcoreapp2.2\DistSysACWClient.pdb
+C:\Users\Mark\Desktop\New folder (2)\mySubmission\mySolution\DistSysACW\DistSysACWClient\obj\Debug\netcoreapp2.2\DistSysACWClient.csprojAssemblyReference.cache
+C:\Users\Mark\Desktop\New folder (2)\mySubmission\mySolution\DistSysACW\DistSysACWClient\obj\Debug\netcoreapp2.2\DistSysACWClient.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Desktop\New folder (2)\mySubmission\mySolution\DistSysACW\DistSysACWClient\obj\Debug\netcoreapp2.2\DistSysACWClient.AssemblyInfoInputs.cache
+C:\Users\Mark\Desktop\New folder (2)\mySubmission\mySolution\DistSysACW\DistSysACWClient\obj\Debug\netcoreapp2.2\DistSysACWClient.AssemblyInfo.cs
+C:\Users\Mark\Desktop\New folder (2)\mySubmission\mySolution\DistSysACW\DistSysACWClient\obj\Debug\netcoreapp2.2\DistSysACWClient.dll
+C:\Users\Mark\Desktop\New folder (2)\mySubmission\mySolution\DistSysACW\DistSysACWClient\obj\Debug\netcoreapp2.2\DistSysACWClient.pdb
+C:\Users\Mark\Desktop\New folder (2)\mySubmission\mySolution\DistSysACW\DistSysACWClient\obj\Debug\netcoreapp2.2\DistSysACWClient.genruntimeconfig.cache

@@ -1,0 +1,72 @@
+C:\Users\Mark\Documents\Uni Work\Distrubuted Systems\New folder\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.RazorAssemblyInfo.cache
+C:\Users\Mark\Documents\Uni Work\Distrubuted Systems\New folder\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.RazorAssemblyInfo.cs
+C:\Users\Mark\Documents\Uni Work\Distrubuted Systems\New folder\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.AssemblyInfoInputs.cache
+C:\Users\Mark\Documents\Uni Work\Distrubuted Systems\New folder\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.AssemblyInfo.cs
+C:\Users\Mark\Documents\Uni Work\Distrubuted Systems\New folder\DistSysACW\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Mark\Documents\Uni Work\Distrubuted Systems\New folder\DistSysACW\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Mark\Documents\Uni Work\Distrubuted Systems\New folder\DistSysACW\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Mark\Documents\Uni Work\Distrubuted Systems\New folder\DistSysACW\bin\Debug\netcoreapp2.2\DistSysACW.deps.json
+C:\Users\Mark\Documents\Uni Work\Distrubuted Systems\New folder\DistSysACW\bin\Debug\netcoreapp2.2\DistSysACW.runtimeconfig.json
+C:\Users\Mark\Documents\Uni Work\Distrubuted Systems\New folder\DistSysACW\bin\Debug\netcoreapp2.2\DistSysACW.runtimeconfig.dev.json
+C:\Users\Mark\Documents\Uni Work\Distrubuted Systems\New folder\DistSysACW\bin\Debug\netcoreapp2.2\DistSysACW.dll
+C:\Users\Mark\Documents\Uni Work\Distrubuted Systems\New folder\DistSysACW\bin\Debug\netcoreapp2.2\DistSysACW.pdb
+C:\Users\Mark\Documents\Uni Work\Distrubuted Systems\New folder\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.RazorTargetAssemblyInfo.cache
+C:\Users\Mark\Documents\Uni Work\Distrubuted Systems\New folder\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.dll
+C:\Users\Mark\Documents\Uni Work\Distrubuted Systems\New folder\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.pdb
+C:\Users\Mark\Documents\Uni Work\Distrubuted Systems\New folder\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.genruntimeconfig.cache
+C:\Users\Mark\Documents\Uni Work\Distrubuted Systems\New folder\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Documents\Uni Work\Distrubuted Systems\New folder\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.csprojAssemblyReference.cache
+C:\DistSysACW\DistSysACW\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\DistSysACW\DistSysACW\bin\Debug\netcoreapp2.2\appsettings.json
+C:\DistSysACW\DistSysACW\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\DistSysACW\DistSysACW\bin\Debug\netcoreapp2.2\DistSysACW.deps.json
+C:\DistSysACW\DistSysACW\bin\Debug\netcoreapp2.2\DistSysACW.runtimeconfig.json
+C:\DistSysACW\DistSysACW\bin\Debug\netcoreapp2.2\DistSysACW.runtimeconfig.dev.json
+C:\DistSysACW\DistSysACW\bin\Debug\netcoreapp2.2\DistSysACW.dll
+C:\DistSysACW\DistSysACW\bin\Debug\netcoreapp2.2\DistSysACW.pdb
+C:\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.csprojAssemblyReference.cache
+C:\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.csproj.CoreCompileInputs.cache
+C:\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.RazorAssemblyInfo.cache
+C:\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.RazorAssemblyInfo.cs
+C:\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.AssemblyInfoInputs.cache
+C:\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.AssemblyInfo.cs
+C:\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.RazorTargetAssemblyInfo.cache
+C:\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.dll
+C:\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.pdb
+C:\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.genruntimeconfig.cache
+C:\Users\Mark\Documents\DistSysACW\DistSysACW\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Mark\Documents\DistSysACW\DistSysACW\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Mark\Documents\DistSysACW\DistSysACW\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Mark\Documents\DistSysACW\DistSysACW\bin\Debug\netcoreapp2.2\DistSysACW.deps.json
+C:\Users\Mark\Documents\DistSysACW\DistSysACW\bin\Debug\netcoreapp2.2\DistSysACW.runtimeconfig.json
+C:\Users\Mark\Documents\DistSysACW\DistSysACW\bin\Debug\netcoreapp2.2\DistSysACW.runtimeconfig.dev.json
+C:\Users\Mark\Documents\DistSysACW\DistSysACW\bin\Debug\netcoreapp2.2\DistSysACW.dll
+C:\Users\Mark\Documents\DistSysACW\DistSysACW\bin\Debug\netcoreapp2.2\DistSysACW.pdb
+C:\Users\Mark\Documents\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.csprojAssemblyReference.cache
+C:\Users\Mark\Documents\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.AssemblyInfoInputs.cache
+C:\Users\Mark\Documents\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.AssemblyInfo.cs
+C:\Users\Mark\Documents\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Documents\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.RazorAssemblyInfo.cache
+C:\Users\Mark\Documents\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.RazorAssemblyInfo.cs
+C:\Users\Mark\Documents\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.RazorTargetAssemblyInfo.cache
+C:\Users\Mark\Documents\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.dll
+C:\Users\Mark\Documents\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.pdb
+C:\Users\Mark\Documents\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.genruntimeconfig.cache
+C:\Users\Mark\Desktop\New folder (2)\mySubmission\mySolution\DistSysACW\DistSysACW\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Mark\Desktop\New folder (2)\mySubmission\mySolution\DistSysACW\DistSysACW\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Mark\Desktop\New folder (2)\mySubmission\mySolution\DistSysACW\DistSysACW\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Mark\Desktop\New folder (2)\mySubmission\mySolution\DistSysACW\DistSysACW\bin\Debug\netcoreapp2.2\DistSysACW.deps.json
+C:\Users\Mark\Desktop\New folder (2)\mySubmission\mySolution\DistSysACW\DistSysACW\bin\Debug\netcoreapp2.2\DistSysACW.runtimeconfig.json
+C:\Users\Mark\Desktop\New folder (2)\mySubmission\mySolution\DistSysACW\DistSysACW\bin\Debug\netcoreapp2.2\DistSysACW.runtimeconfig.dev.json
+C:\Users\Mark\Desktop\New folder (2)\mySubmission\mySolution\DistSysACW\DistSysACW\bin\Debug\netcoreapp2.2\DistSysACW.dll
+C:\Users\Mark\Desktop\New folder (2)\mySubmission\mySolution\DistSysACW\DistSysACW\bin\Debug\netcoreapp2.2\DistSysACW.pdb
+C:\Users\Mark\Desktop\New folder (2)\mySubmission\mySolution\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.csprojAssemblyReference.cache
+C:\Users\Mark\Desktop\New folder (2)\mySubmission\mySolution\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Desktop\New folder (2)\mySubmission\mySolution\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.RazorAssemblyInfo.cache
+C:\Users\Mark\Desktop\New folder (2)\mySubmission\mySolution\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.RazorAssemblyInfo.cs
+C:\Users\Mark\Desktop\New folder (2)\mySubmission\mySolution\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.AssemblyInfoInputs.cache
+C:\Users\Mark\Desktop\New folder (2)\mySubmission\mySolution\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.AssemblyInfo.cs
+C:\Users\Mark\Desktop\New folder (2)\mySubmission\mySolution\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.RazorTargetAssemblyInfo.cache
+C:\Users\Mark\Desktop\New folder (2)\mySubmission\mySolution\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.dll
+C:\Users\Mark\Desktop\New folder (2)\mySubmission\mySolution\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.pdb
+C:\Users\Mark\Desktop\New folder (2)\mySubmission\mySolution\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.genruntimeconfig.cache
